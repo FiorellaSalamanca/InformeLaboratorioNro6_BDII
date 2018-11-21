@@ -1,0 +1,47 @@
+\section{Respuesta al ejecutar los siguientes comandos} 
+\vspace{\baselineskip}
+¿Qué sucede al ejecutar los siguientes comandos?
+\begin{center}
+	\includegraphics[width=8cm]{./Imagenes/1} 
+\end{center}
+
+\begin{itemize}
+	\item STARTUP OPEN
+\end{itemize}
+\begin{adjustwidth}{0.40in}{0.0in}
+	Una base de datos Oracle puede estar en uno de estos cuatro estados:
+	OPEN: La base de datos está completamente funcional. Para ello se abren los archivos de datos y los Redo Log y se comprueba la consistencia de los datos.\\ \\
+	Este es el valor por defecto para arrancar, montar y abrir una base datos.\\ \\
+	Abrir la base de datos incluyendo las siguientes tareas:	
+	\begin{itemize}
+		\item[$*$] Apertura de los archivos de datos en línea.
+		\item[$*$] Apertura de los archivos de registro de rehacer en línea.\\
+\\
+	\end{itemize}		
+\end{adjustwidth}
+
+\begin{itemize}
+	\item STARTUP MOUNT 
+\end{itemize}
+\begin{adjustwidth}{0.40in}{0.0in}
+	Una base de datos Oracle puede estar en uno de estos cuatro estados:
+	MOUNT: Al estado anterior se añade la lectura de los archivos de control que permiten determinar cómo se ha de preparar la instancia. Se buscan los archivos de datos y los Redo Log, comprobando su existencia en las rutas marcadas por el archivo de control.\\ \\
+	En este estado podemos conectar (como administradores) y realizar tareas como:
+	\begin{itemize}
+		\item[$*$] Cambio del nombre de los archivos de datos.
+		\item[$*$] Activar el modo ARCHIVELOG.
+		\item[$*$] Recuperación de la base de datos
+		\item[$*$] En definitiva, tareas sobre los archivos de la base de datos ya que aun no se han abierto sus datos.	\\
+\\
+	\end{itemize}
+	Arrancamos la base de datos montada, normalmente se usa en modo para tareas de mantenimiento.	
+\end{adjustwidth}
+
+
+
+
+	
+	
+
+\vspace{\baselineskip}
+\vspace{\baselineskip}
