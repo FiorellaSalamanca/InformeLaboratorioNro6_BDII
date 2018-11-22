@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.30)  21 NOV 2018 09:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.18)  22 NOV 2018 01:47
 entering extended mode
-**C:/Users/Equipo/Desktop/Lab6_BD2/InformeCuest_Lab6.tex
-(C:/Users/Equipo/Desktop/Lab6_BD2/InformeCuest_Lab6.tex
+**./InformeCuest_Lab6.tex
+(InformeCuest_Lab6.tex
 LaTeX2e <2018-04-01> patch level 5
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -20,33 +20,40 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+"
 Package: babel 2018/06/05 3.22 The Babel package
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.de
+f"
 File: switch.def 2018/06/05 3.22 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Equipo\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\spa
+nish.ldf"
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+"
 File: babel.def 2018/06/05 3.22 Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.
+def")
 \bbl@dirlevel=\count89
 )
 \es@quottoks=\toks16
@@ -56,41 +63,51 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+hics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex
+.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count91
@@ -106,8 +123,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen113
 \Gm@dimlist=\toks18
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+.cfg"))
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count94
 \float@exts=\toks19
@@ -115,24 +133,30 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks20
 \@floatcapt=\box27
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen114
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen115
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count95
@@ -173,16 +197,20 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\stackrel.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\stackrel
+.sty"
 Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
+ds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
+ex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -191,11 +219,13 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
+cmds.sty"
 Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -203,25 +233,32 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
-Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow
+.sty"
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
 \multirow@colwidth=\skip46
 \multirow@cntb=\count107
 \multirow@dima=\skip47
 \bigstrutjot=\dimen123
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.s
+ty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks26
 )
-(C:\Users\Equipo\AppData\Roaming\MiKTeX\2.9\tex\latex\changepage\changepage.sty
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\changepage\change
+page.sty"
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count108
 \cp@tempcnt=\count109
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xy.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xy.tex" Bootstrap'ing:
-catcodes, docmode, ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyrecat.tex"
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyidioms.tex")
+)
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xy.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xy.tex"
+Bootstrap'ing: catcodes, docmode,
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyrecat.t
+ex")
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyidioms.
+tex")
 
  Xy-pic version 3.8.9 <2013/10/06>
  Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
@@ -278,10 +315,10 @@ kernel objects: directionals, circles, text; options; algorithms: directions,
 edges, connections;  Xy-pic loaded)
 Package: xy 2013/10/06 Xy-pic version 3.8.9
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyall.tex"
- Xy-pic option: All features v.3.8
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycurve.tex"
- Xy-pic option: Curve and Spline extension v.3.12 curve,
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyall.tex
+"  Xy-pic option: All features v.3.8
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xycurve.t
+ex"  Xy-pic option: Curve and Spline extension v.3.12 curve,
 \crv@cnt@=\count114
 \crvpts@=\toks31
 \splinebox@=\box33
@@ -292,22 +329,22 @@ Package: xy 2013/10/06 Xy-pic version 3.8.9
  circles,
 \L@=\dimen156
  loaded)
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyframe.tex"
- Xy-pic option: Frame and Bracket extension v.3.14 loaded)
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycmtip.tex"
- Xy-pic option: Computer Modern tip extension v.3.7
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xytips.tex"
- Xy-pic option: More Tips extension v.3.11 loaded) loaded)
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyline.tex"
- Xy-pic option: Line styles extension v.3.10
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyframe.t
+ex"  Xy-pic option: Frame and Bracket extension v.3.14 loaded)
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xycmtip.t
+ex"  Xy-pic option: Computer Modern tip extension v.3.7
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xytips.te
+x"  Xy-pic option: More Tips extension v.3.11 loaded) loaded)
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyline.te
+x"  Xy-pic option: Line styles extension v.3.10
 \xylinethick@=\dimen157
  loaded)
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyrotate.tex"
- Xy-pic option: Rotate and Scale extension v.3.8 loaded)
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycolor.tex"
- Xy-pic option: Colour extension v.3.11 loaded)
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xymatrix.tex"
- Xy-pic option: Matrix feature v.3.14
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyrotate.
+tex"  Xy-pic option: Rotate and Scale extension v.3.8 loaded)
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xycolor.t
+ex"  Xy-pic option: Colour extension v.3.11 loaded)
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xymatrix.
+tex"  Xy-pic option: Matrix feature v.3.14
 \Row=\count115
 \Col=\count116
 \queue@=\toks32
@@ -316,28 +353,27 @@ Package: xy 2013/10/06 Xy-pic version 3.8.9
 \qcount@@=\count118
 \matrixsize@=\count119
  loaded)
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyarrow.tex"
- Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xygraph.tex"
- Xy-pic option: Graph feature v.3.11 loaded) loaded)
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf.tex"
- Xy-pic option: PDF driver v.1.7 Xy-pic pdf driver: `color' extension support
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-co.tex" loaded)
-Xy-pic pdf driver: `curve' extension support
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-cu.tex" loaded)
-Xy-pic pdf driver: `frame' extension support
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-fr.tex" loaded)
-Xy-pic pdf driver: `line' extension support
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-li.tex" loaded)
-Xy-pic pdf driver: `rotate' extension support
-("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-ro.tex" loaded) loaded))
-(C:/Users/Equipo/Desktop/Lab6_BD2\InformeCuest_Lab6.aux
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyarrow.t
+ex"  Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xygraph.t
+ex"  Xy-pic option: Graph feature v.3.11 loaded) loaded)
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf.tex
+"  Xy-pic option: PDF driver v.1.7
+Xy-pic pdf driver: `color' extension support
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-co.
+tex" loaded) Xy-pic pdf driver: `curve' extension support
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-cu.
+tex" loaded) Xy-pic pdf driver: `frame' extension support
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-fr.
+tex" loaded) Xy-pic pdf driver: `line' extension support
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-li.
+tex" loaded) Xy-pic pdf driver: `rotate' extension support
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-ro.
+tex" loaded) loaded)) (InformeCuest_Lab6.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-
-(C:/Users/Equipo/Desktop/Lab6_BD2\Secciones/Desarrollo01.aux)
-(C:/Users/Equipo/Desktop/Lab6_BD2\Secciones/Desarrollo02.aux)
-(C:/Users/Equipo/Desktop/Lab6_BD2\Secciones/Desarrollo03.aux))
+ (Secciones/Desarrollo01.aux)
+(Secciones/Desarrollo02.aux) (Secciones/Desarrollo03.aux))
 \openout1 = `InformeCuest_Lab6.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -355,7 +391,8 @@ LaTeX Font Info:    ... okay on input line 22.
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 
-(C:\Users\Equipo\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count120
 \scratchdimen=\dimen158
@@ -368,19 +405,25 @@ LaTeX Info: Redefining \% on input line 22.
 \MPnumerator=\count124
 \makeMPintoPDFobject=\count125
 \everyMPtoPDFconversion=\toks35
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+)
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
+nekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+("C:\Users\YERSON\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
+eys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 ))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -432,9 +475,8 @@ Package pdftex.def Info: ./Imagenes/logo.png  used on input line 43.
 (pdftex.def)             Requested size: 128.0374pt x 159.28365pt.
 [1
 
-{C:/Users/Equipo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/E
-quipo/Desktop/Lab6_BD2/Imagenes/logo.png>]
-(C:/Users/Equipo/Desktop/Lab6_BD2\InformeCuest_Lab6.toc
+{C:/Users/YERSON/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagenes
+/logo.png>] (InformeCuest_Lab6.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -444,8 +486,7 @@ LaTeX Info: Redefining \% on input line 1.
  [1]
 \openout2 = `Secciones/Desarrollo01.aux'.
 
-
-(C:/Users/Equipo/Desktop/Lab6_BD2\Secciones/Desarrollo01.tex
+ (Secciones/Desarrollo01.tex
 <./Imagenes/1.jpg, id=13, 652.4375pt x 351.3125pt>
 File: ./Imagenes/1.jpg Graphic file (type jpg)
 <use ./Imagenes/1.jpg>
@@ -486,119 +527,382 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
+
+ []
+
 [1
 
- <C:/Users/Equipo/Desktop/Lab6_BD2/Imagenes/1.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 46--50
+ <./Imagenes/1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+<./Imagenes/startup.png, id=18, 333.49594pt x 210.7875pt>
+File: ./Imagenes/startup.png Graphic file (type png)
+<use ./Imagenes/startup.png>
+Package pdftex.def Info: ./Imagenes/startup.png  used on input line 54.
+(pdftex.def)             Requested size: 435.32724pt x 275.17195pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--50
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--50
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
+
+ []
+
+[2 <./Imagenes/startup.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--55
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--55
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--91
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--101
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--101
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--101
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--111
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 115--117
+Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--117
+Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
  []
 
 
-!pdfTeX error: pdflatex (file C:/Users/Equipo/Desktop/Lab6_BD2/Imagenes/startup
-.jpg): reading JPEG image failed (no JPEG header found)
- ==> Fatal error occurred, no output PDF file produced!
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+<./Imagenes/shutdown.png, id=26, 334.24875pt x 213.04594pt>
+File: ./Imagenes/shutdown.png Graphic file (type png)
+<use ./Imagenes/shutdown.png>
+Package pdftex.def Info: ./Imagenes/shutdown.png  used on input line 119.
+(pdftex.def)             Requested size: 435.32724pt x 277.49606pt.
+) [4 <./Imagenes/shutdown.png>]
+\openout2 = `Secciones/Desarrollo02.aux'.
+
+ (Secciones/Desarrollo02.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+
+ []
+
+<./Imagenes/2.jpg, id=31, 263.1285pt x 148.482pt>
+File: ./Imagenes/2.jpg Graphic file (type jpg)
+<use ./Imagenes/2.jpg>
+Package pdftex.def Info: ./Imagenes/2.jpg  used on input line 7.
+(pdftex.def)             Requested size: 284.52756pt x 160.55751pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+[5
+
+
+ <./Imagenes/2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+<./Imagenes/3.png, id=36, 386.19281pt x 38.39343pt>
+File: ./Imagenes/3.png Graphic file (type png)
+<use ./Imagenes/3.png>
+Package pdftex.def Info: ./Imagenes/3.png  used on input line 46.
+(pdftex.def)             Requested size: 497.92322pt x 49.50134pt.
+<./Imagenes/sysc.jpg, id=37, 39.89906pt x 21.83156pt>
+File: ./Imagenes/sysc.jpg Graphic file (type jpg)
+<use ./Imagenes/sysc.jpg>
+Package pdftex.def Info: ./Imagenes/sysc.jpg  used on input line 50.
+(pdftex.def)             Requested size: 42.67912pt x 23.35286pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--70
+
+ []
+
+[6 <./Imagenes/3.png>]) [7 <./Imagenes/sysc.jpg>]
+\openout2 = `Secciones/Desarrollo03.aux'.
+
+ (Secciones/Desarrollo03.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+<./Imagenes/4.jpg, id=45, 392.96812pt x 304.88907pt>
+File: ./Imagenes/4.jpg Graphic file (type jpg)
+<use ./Imagenes/4.jpg>
+Package pdftex.def Info: ./Imagenes/4.jpg  used on input line 12.
+(pdftex.def)             Requested size: 398.33858pt x 309.07532pt.
+[8
+
+
+ <./Imagenes/4.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+
+ []
+
+<./Imagenes/5.png, id=52, 1092.33093pt x 367.3725pt>
+File: ./Imagenes/5.png Graphic file (type png)
+<use ./Imagenes/5.png>
+Package pdftex.def Info: ./Imagenes/5.png  used on input line 76.
+(pdftex.def)             Requested size: 435.32724pt x 146.40823pt.
+[10 <./Imagenes/5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
+
+ []
+
+) [11] (InformeCuest_Lab6.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Secciones/Desarrollo01.aux)
+(Secciones/Desarrollo02.aux) (Secciones/Desarrollo03.aux)) ) 
+Here is how much of TeX's memory you used:
+ 6386 strings out of 492973
+ 87346 string characters out of 3126249
+ 217552 words of memory out of 3000000
+ 10089 multiletter control sequences out of 15000+200000
+ 10017 words of font info for 40 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,5n,31p,3261b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/YERSON/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/U
+sers/YERSON/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Users/YERSON/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><C:/Users/YERSON/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb>
+Output written on InformeCuest_Lab6.pdf (13 pages, 385577 bytes).
+PDF statistics:
+ 75 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

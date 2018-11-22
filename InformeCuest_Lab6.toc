@@ -1,4 +1,4 @@
 \babel@toc {spanish}{}
 \contentsline {section}{\numberline {1}Respuesta al ejecutar los siguientes comandos}{1}
-\contentsline {section}{\numberline {2}Privilegios de sistema (DDL) utilizados del script proporcionado lab\_02\_01.sql}{6}
-\contentsline {section}{\numberline {3}Tipos de TableSpace que existen en Oracle.}{9}
+\contentsline {section}{\numberline {2}Privilegios de sistema (DDL) utilizados del script proporcionado lab\_02\_01.sql}{5}
+\contentsline {section}{\numberline {3}Tipos de TableSpace que existen en Oracle.}{8}

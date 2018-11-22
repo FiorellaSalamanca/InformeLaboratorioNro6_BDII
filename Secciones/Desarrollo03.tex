@@ -9,13 +9,12 @@ Los tablespace son estructuras donde se almacenan los objetos del esquema de la 
 \\
 \\
 \begin{center}
-	\includegraphics[width=12.5cm]{./Imagenes/4} 
+	\includegraphics[width=14cm]{./Imagenes/4} 
 \end{center}
 
-\vspace{\baselineskip}
+\newpage
 
 TIPOS DE TABLESPACE
-\\
 \\
 \begin{itemize}
 	\item TABLESPACE SYSTEM:
@@ -26,7 +25,6 @@ TIPOS DE TABLESPACE
 	\begin{itemize}
 		\item[$*$] Se crea automáticamente al hacer la instalación de Oracle o al crear una Base de Datos.
 		\item[$*$] Contiene el diccionario de datos.\\
-\\
 	\end{itemize}		
 \end{adjustwidth}
 
@@ -41,16 +39,16 @@ TIPOS DE TABLESPACE
 		\item[$*$] Tablas temporales e índices temporales.
 		\item[$*$] LOB's temporales.
 		\item[$*$] Árboles B temporales.\\
-\\
 	\end{itemize}
 	Dentro de un espacio de tabla temporal, todas las operaciones de clasificación para una instancia particular comparten un único segmento de clasificación, y existen segmentos de clasificación para cada instancia que realiza operaciones de clasificación que requieren espacio temporal. La primera instrucción después de la puesta en marcha crea un segmento de clasificación que utiliza el espacio de tabla temporal para la clasificación, y se libera solo en el cierre.\\ \\
 	Características:
 	\begin{itemize}
 		\item[$*$] Es aquél en el que solamente puede haber objetos temporales. No se pueden crear objetos permanentes como pueden ser los índices, las tablas o los segmentos de rollback.
 		\item[$*$] Optimización operaciones de ordenación.\\
-\\
 	\end{itemize}		
 \end{adjustwidth}
+
+\newpage
 
 \begin{itemize}
 	\item TIPO BIGFILE (10g):
@@ -61,7 +59,6 @@ TIPOS DE TABLESPACE
 		\item[$*$] Un espacio de tabla de bigfile con bloques de 8K puede contener un archivo de datos de 32 terabytes. 
 		\item[$*$] Los tablespace de bigfile pueden reducir la cantidad de archivos de datos necesarios para una base de datos. 
 		\item[$*$] Los tablespace de bigfile simplifican la administración de la base de datos al proporcionar transparencia de archivos de datos. \\
-\\
 	\end{itemize}
 	Los tablespace de Bigfile solo se admiten para tablespace administrados localmente con administración de espacio de segmento automática, con tres excepciones: tablespace deshacer gestionados localmente, tablespace temporales y el tablespace SYSTEM.		
 \end{adjustwidth}
@@ -89,7 +86,6 @@ TIPOS DE TABLESPACE
 	La creación de un tablespace de solo lectura evita las operaciones de escritura en los archivos de datos en el tablespace. El propósito principal de los espacios de tabla de solo lectura es eliminar la necesidad de realizar copias de seguridad y recuperación de grandes porciones estáticas de una base de datos.\\ \\
 	Los espacios de tabla de solo lectura también proporcionan una forma de proteger los datos históricos para que los usuarios no puedan modificarlos. La creación de un tablespace de solo lectura evita actualizaciones en todas las tablas del tablespace, independientemente del nivel de privilegio de actualización del usuario.\\ \\	
 	Se pueden consultar los datos de los objetos, no se puede ni borrar ni insertar nada en ellos. La principal ventaja de un tablespace read-only es que no hace falta hacer backup del mismo.\\
-\\
 \end{adjustwidth}
 
 \vspace{\baselineskip}
