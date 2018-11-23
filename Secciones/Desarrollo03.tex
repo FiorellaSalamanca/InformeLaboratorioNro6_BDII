@@ -89,3 +89,19 @@ TIPOS DE TABLESPACE
 \end{adjustwidth}
 
 \vspace{\baselineskip}
+
+\begin{itemize}
+	\item TABLESPACE DE UNDO:
+\end{itemize}
+\begin{adjustwidth}{0.40in}{0.0in}
+	Cuando se realiza una sentencia rollback, los registros en undo son usados para deshacer los cambios que fueron hechos en la base de datos por la transacción que aún no ha sido commiteado. Durante la recuperación de la base de datos, los registros de undo se usan para dehacer los cambios aplicados del redo log. \\ \\
+	Los registros undo mantienen consistencia de lectura pues mantienen una imagen de la data para los usuarios que acceden a la data al mismo tiempo que otro usuario la está alterando.Oracle administra automaticamente el tablespace de undo si el manejo automatico está habilitado y el ususario no crea su undo tablespace.\\ \\	
+	Caracteristicas:
+	\begin{itemize}
+		\item[$*$] Se utilizan para gestionar poder deshacer las transacciones incompletas. En versiones anteriores  ==\# rollback.
+		\item[$*$] Podemos tener varios tablespaces de “undo”, pero sólo uno de ellos estará activo.
+		\item[$*$] No se pueden crear objetos sobre un tablespace de “undo”.
+		\item[$*$] Al cambiar de tablespace “undo” activo (con undo\_tablespace), los segmentos de rollback que contiene el nuevo tablespace pasan a estar online, mientras que los del tablespace anterior se ponen offline.\\
+\\
+	\end{itemize}
+\end{adjustwidth}
